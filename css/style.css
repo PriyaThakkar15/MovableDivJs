@@ -1,0 +1,12 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    position: absolute;
+    height:100px;
+    width:100px;
+    background-color: #663399;
+    border-radius: 5px;
+    box-shadow: 5px 10px 18px #888888;
+}
